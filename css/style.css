@@ -1,0 +1,36 @@
+input.btn.btn-success.shto_shitje {
+    text-align: center;
+    width: 100%;
+}
+h3#totalAmount{
+    color: black !important;
+    text-align: right;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#load-screen {
+    background: url(../img/header-back.png);
+    position: fixed;
+    z-index: 10000;
+    top:0px;
+    width: 100%;
+    height: 1600px;
+    
+    }
+    
+    
+    #loading {
+    
+    width: 500px;
+    height: 500px;
+    margin: 10% auto;
+    background: url(../img/loader.gif);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    }
+    span.capitalize{
+        text-transform: capitalize !important;
+      }
